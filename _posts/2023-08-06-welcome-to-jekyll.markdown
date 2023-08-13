@@ -37,7 +37,10 @@ You can run the jekyll site locally if you have Ruby installed. First, make sure
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+This [blog post][unofficial-quickstart] might be helpful.
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 [jekyll-fm]: https://jekyllrb.com/docs/front-matter/
+[unofficial-quickstart]: https://www.aleksandrhovhannisyan.com/blog/getting-started-with-jekyll-and-github-pages/#2-setting-up-your-first-jekyll-site
