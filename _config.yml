@@ -22,7 +22,7 @@ title: Game Development Notes
 description: >- # this means to ignore newlines until "baseurl:"
   Collection of notes about learning game development
 baseurl: "/notes" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://notes.calamity.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: insomnia-itch
 
 # Build settings
