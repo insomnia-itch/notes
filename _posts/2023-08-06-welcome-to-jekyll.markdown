@@ -33,6 +33,8 @@ categories: jekyll
 author: Jelani
 {% endhighlight %}
 
+You can run the jekyll site locally if you have Ruby installed. First, make sure you `bundle install` to install all the required gems in the `Gemfile`. Then, you can run `bundle exec jekyll serve --livereload` to host the site on `localhost:4000`.
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
